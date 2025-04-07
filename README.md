@@ -56,7 +56,7 @@ Bhupesh Sinha
 
 ## 📸 Preview
 
-![Sneaker Store Screenshot](images/sneaker%201.jpeg)
+![Sneaker Store Screenshot]([images/sneaker%201.jpeg](https://github.com/bhupeshsinha/Sneaker_Store/blob/57b0f50e1b80367166d19595e14305cc5aabbe95/Screen%20shot.png)
 
 ---
 
