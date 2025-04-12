@@ -112,7 +112,15 @@ Large Desktops and High-Resolution Screens: 1281px – 1440px
 
 
 
-@media screen and (max-width: 320px){ 
+@media screen and (max-width: 319px){ 
+    
+    .store {
+        width: 90%;
+        min-height: 100%;
+        margin: auto;
+    }
+
+    
     .card {
         border-radius: 30px;
         width: 100%;
@@ -125,13 +133,49 @@ Large Desktops and High-Resolution Screens: 1281px – 1440px
 
 
 @media screen and (min-width: 320px) and (max-width: 480px) { 
+
+    .store {
+        width: 90%;
+        min-height: 100%;
+        margin: auto;
+    }
+
     .card {
+        display: flex;
         border-radius: 30px;
         width: 100%;
-        min-height: 450px;
+        min-height: 200px;
         padding: 10px;
         box-shadow: 7px 7px 10px rgb(201, 201, 201);
         margin-bottom: 30px;
+    }
+
+    .image {
+        width: 80%;
+        height: 200px;
+        overflow: hidden;
+        border-radius: 40px;
+    }
+
+    .details {
+        height: 180px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: start;
+        padding: 0 20px;
+        padding-top: 20px;
+    }
+
+    .description {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .cart >img {
+        /* padding-top: 10px; */
+        width: 30px;
     }
 }
 
