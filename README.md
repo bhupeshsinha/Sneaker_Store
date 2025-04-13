@@ -25,7 +25,7 @@ This project is built to be responsive across a wide range of devices:
 
 **Preview:**
 
-![Extra Small Mobile](images/responsive/extra-small.png)
+![Extra Small Mobile](https://github.com/bhupeshsinha/Sneaker_Store/blob/main/320_480.png)
 
 ---
 
@@ -36,7 +36,7 @@ This project is built to be responsive across a wide range of devices:
 
 **Preview:**
 
-![Small Mobile Landscape](images/responsive/small-mobile.png)
+![Small Mobile Landscape](https://github.com/bhupeshsinha/Sneaker_Store/blob/main/481.png)
 
 ---
 
@@ -47,7 +47,7 @@ This project is built to be responsive across a wide range of devices:
 
 **Preview:**
 
-![Small Tablets Portrait](images/responsive/small-tablet.png)
+![Small Tablets Portrait](https://github.com/bhupeshsinha/Sneaker_Store/blob/main/601.png)
 
 ---
 
@@ -58,7 +58,7 @@ This project is built to be responsive across a wide range of devices:
 
 **Preview:**
 
-![Large Tablets Landscape](images/responsive/large-tablet.png)
+![Large Tablets Landscape](https://github.com/bhupeshsinha/Sneaker_Store/blob/main/769.png)
 
 ---
 
@@ -69,7 +69,7 @@ This project is built to be responsive across a wide range of devices:
 
 **Preview:**
 
-![Small Desktop](images/responsive/small-desktop.png)
+![Small Desktop](https://github.com/bhupeshsinha/Sneaker_Store/blob/main/1024.png)
 
 ---
 
