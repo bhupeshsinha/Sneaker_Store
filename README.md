@@ -14,6 +14,65 @@ A responsive and stylish sneaker store web page built with **HTML** and **CSS**.
 
 ---
 
+## 📱 Responsive Design Breakpoints
+
+This project is built to be responsive across a wide range of devices:
+
+### 📲 Extra Small Mobile (Portrait) – 320px to 480px
+
+- Optimized for small-screen smartphones
+- Single-column layout with larger touch targets
+
+**Preview:**
+
+![Extra Small Mobile](images/responsive/extra-small.png)
+
+---
+
+### 📱 Small Mobile (Landscape) – 481px to 600px
+
+- Slightly wider layout
+- Cards may still be stacked vertically
+
+**Preview:**
+
+![Small Mobile Landscape](images/responsive/small-mobile.png)
+
+---
+
+### 📱 Small Tablets (Portrait) – 601px to 768px
+
+- Balanced spacing between cards
+- Grid layout begins to emerge
+
+**Preview:**
+
+![Small Tablets Portrait](images/responsive/small-tablet.png)
+
+---
+
+### 💻 Large Tablets (Landscape) – 769px to 1024px
+
+- Multi-column card layout
+- Responsive typography scales for larger screens
+
+**Preview:**
+
+![Large Tablets Landscape](images/responsive/large-tablet.png)
+
+---
+
+### 🖥️ Small Desktops and Laptops – 1025px and up
+
+- Fully responsive grid
+- Appropriate margins and card distribution
+
+**Preview:**
+
+![Small Desktop](images/responsive/small-desktop.png)
+
+---
+
 ## 📁 Project Structure
 
 
@@ -48,15 +107,15 @@ Each sneaker card includes:
 
 ---
 
-## 👨‍💻 Author
+## 📸 Full Page Preview
 
-Bhupesh Sinha
+![Sneaker Store Screenshot](https://github.com/bhupeshsinha/Sneaker_Store/blob/57b0f50e1b80367166d19595e14305cc5aabbe95/Screen%20shot.png)
 
 ---
 
-## 📸 Preview
+## 👨‍💻 Author
 
-![Sneaker Store Screenshot](https://github.com/bhupeshsinha/Sneaker_Store/blob/57b0f50e1b80367166d19595e14305cc5aabbe95/Screen%20shot.png)
+**Bhupesh Sinha**
 
 ---
 
